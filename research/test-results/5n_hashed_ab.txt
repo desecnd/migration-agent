@@ -1,0 +1,43 @@
+Wyniki dla one-step lookahead nie mają sensu, ponieważ AB znalazl wygraną po pierwszym ruchu
+Generated moves with spiral
+Generated moves with reverse spiral
+Turn: ORANGE
+.....
+O....
+OO...
+O.B..
+.BBB.
+=======================
+one-ahead for move: 11
+Turn: BLUE
+.....
+O....
+O.O..
+O.B..
+.BBB.
+1 21 2184
+=======================
+=======================
+one-ahead for move: 15
+Turn: BLUE
+.....
+O....
+OO...
+.OB..
+.BBB.
+1 17 81
+=======================
+=======================
+one-ahead for move: 5
+Turn: BLUE
+.....
+.O...
+OO...
+O.B..
+.BBB.
+1 17 79
+=======================
+1 11 2345
+Elapsed: 0s
+Elapsed: 26ms
+Hashtable: (size=1635)

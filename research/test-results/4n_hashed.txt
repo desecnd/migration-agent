@@ -1,0 +1,307 @@
+Turn: ORANGE
+....
+O...
+O...
+.BB.
+ADDING HASHED STATE:
+Turn: BLUE
+.B..
+...O
+.O..
+..B.
+d: 7, score: -1, move: 14, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+.B..
+...O
+O...
+..B.
+d: 6, score: -1, move: 8, nodes below: 3
+========
+ADDING HASHED STATE:
+Turn: BLUE
+.B..
+..BO
+...O
+....
+d: 11, score: -1, move: 6, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+.B..
+..BO
+..O.
+....
+d: 10, score: -1, move: 10, nodes below: 3
+========
+ADDING HASHED STATE:
+Turn: BLUE
+..B.
+.B.O
+...O
+....
+d: 11, score: -1, move: 5, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+..B.
+.B.O
+..O.
+....
+d: 10, score: -1, move: 10, nodes below: 3
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+.BBO
+..O.
+....
+d: 9, score: -1, move: 5, nodes below: 7
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+.BBO
+.O..
+....
+d: 8, score: -1, move: 9, nodes below: 8
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+.B.O
+.OB.
+....
+d: 7, score: -1, move: 5, nodes below: 10
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+.B.O
+O.B.
+....
+d: 6, score: -1, move: 8, nodes below: 11
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+.B.O
+O...
+..B.
+d: 5, score: -1, move: 5, nodes below: 15
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+.B..
+..O.
+.O..
+..B.
+d: 6, score: 1, move: 9, nodes below: 3
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+.BO.
+.OB.
+....
+d: 6, score: -1, move: 6, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+.BO.
+.O..
+..B.
+d: 5, score: -1, move: 14, nodes below: 6
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+.BO.
+O...
+..B.
+d: 4, score: -1, move: 6, nodes below: 22
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+...O
+OBB.
+....
+d: 5, score: -1, move: 9, nodes below: 3
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+..O.
+OBB.
+....
+d: 4, score: -1, move: 6, nodes below: 4
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+..O.
+OB..
+..B.
+d: 3, score: -1, move: 9, nodes below: 27
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+.O..
+OB..
+..B.
+d: 2, score: -1, move: 5, nodes below: 28
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+..O.
+O.B.
+.B..
+d: 3, score: -1, move: 13, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: BLUE
+..B.
+...O
+.BO.
+....
+d: 9, score: -1, move: 9, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+..B.
+.BO.
+...O
+....
+d: 10, score: -1, move: 6, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: BLUE
+..B.
+..O.
+.B.O
+....
+d: 9, score: -1, move: 9, nodes below: 3
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+..B.
+..O.
+.BO.
+....
+d: 8, score: -1, move: 6, nodes below: 6
+========
+ADDING HASHED STATE:
+Turn: BLUE
+..B.
+..O.
+..O.
+.B..
+d: 7, score: -1, move: 13, nodes below: 7
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+..B.
+.O..
+.B.O
+....
+d: 8, score: -1, move: 5, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: BLUE
+..B.
+.O..
+...O
+.B..
+d: 7, score: -1, move: 13, nodes below: 3
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+..B.
+.O..
+..O.
+.B..
+d: 6, score: -1, move: 5, nodes below: 11
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+.OB.
+..O.
+.B..
+d: 5, score: -1, move: 6, nodes below: 13
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+.OB.
+.O..
+.B..
+d: 4, score: -1, move: 9, nodes below: 14
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+.O..
+.OB.
+.B..
+d: 3, score: -1, move: 10, nodes below: 15
+========
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+.O..
+O.B.
+.B..
+d: 2, score: -1, move: 5, nodes below: 18
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+.O..
+O...
+.BB.
+d: 1, score: -1, move: 13, nodes below: 47
+========
+Move: 4
+Turn: BLUE
+....
+.O..
+O...
+.BB.
+-1 47 13
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+O...
+.OB.
+.B..
+d: 2, score: -1, move: 4, nodes below: 2
+========
+ADDING HASHED STATE:
+Turn: BLUE
+....
+O...
+.O..
+.BB.
+d: 1, score: -1, move: 14, nodes below: 3
+========
+Move: 8
+Turn: BLUE
+....
+O...
+.O..
+.BB.
+-1 3 14
+ADDING HASHED STATE:
+Turn: ORANGE
+....
+O...
+O...
+.BB.
+d: 0, score: -1, move: 4, nodes below: 51
+========

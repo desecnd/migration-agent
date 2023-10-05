@@ -1,0 +1,40 @@
+Turn: ORANGE
+.....
+O....
+OO...
+O.B..
+.BBB.
+=======================
+one-ahead for move: 5
+Turn: BLUE
+.....
+.O...
+OO...
+O.B..
+.BBB.
+-1 8038 17
+=======================
+=======================
+one-ahead for move: 11
+Turn: BLUE
+.....
+O....
+O.O..
+O.B..
+.BBB.
+1 2436 21
+=======================
+=======================
+one-ahead for move: 15
+Turn: BLUE
+.....
+O....
+OO...
+.OB..
+.BBB.
+-1 414 17
+=======================
+1 11 10889
+Elapsed: 0s
+Elapsed: 28ms
+Hashtable: (size=5132)
